@@ -70,6 +70,8 @@ const RecommendBookClass = styled.div`
 `;
 const RecommendBookList = styled.div`
   display: block;
+
+  width: 100%;
   text-align: center;
 `;
 
