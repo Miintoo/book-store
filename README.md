@@ -6,7 +6,7 @@
 
 ![카테고리sorting](https://user-images.githubusercontent.com/96560613/226563417-f9dea720-56a6-4caa-aac7-b3a368021ce4.gif)
 
-[프로젝트 구경하기]()
+[프로젝트 구경하기](https://book-store-neon.vercel.app/)
 
 <br/>
 
